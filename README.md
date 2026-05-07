@@ -1,4 +1,4 @@
-# <p align="center">Benchmarking Deep Learning and Statistical Target Detection Methods for PFM-1 Landmine Detection in UAV Hyperspectral Imagery</p>
+# <p align="center">Probabilistic Encounter Modeling for PFM‑1 Landmine Detection: A Comparative Benchmark of Hypergeometric Risk Models, SAM/ACE Detectors, and Kriging‑Enhanced Soft Classification</p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2602.10434"><img src="https://img.shields.io/badge/Paper-IGARSS%202026-blue" alt="Paper"></a>
