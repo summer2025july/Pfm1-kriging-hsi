@@ -6,7 +6,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
-This repository contains the code and annotations for our IGARSS 2026 paper on **"Benchmarking Deep Learning and Statistical Target Detection Methods for PFM-1 Landmine Detection in UAV Hyperspectral Imagery"** by [Sagar Lekhak](https://scholar.google.com/citations?user=Mkf-WgsAAAAJ&hl=en), [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Ramesh Bhatta](https://scholar.google.com/citations?user=O7m5LxEAAAAJ&hl=en), and [Emmett J. Ientilucci](https://www.rit.edu/directory/ejipci-emmett-ientilucci).
+This repository contains the code and annotations for our SSRN paper on **"Stochastic modeling of pfm1 landmine encounters: comparative assessment of hypergeometric risk models and SAM/ACE detectors in UAV imagery"** by [Sumanta Kumar Das](https://scholar.google.com/citations?user=Mkf-WgsAAAAJ&hl=en), [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Ramesh Bhatta](https://scholar.google.com/citations?user=O7m5LxEAAAAJ&hl=en), and [Emmett J. Ientilucci](https://www.rit.edu/directory/ejipci-emmett-ientilucci).
 
 
 ## Dataset Description
