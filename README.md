@@ -6,7 +6,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
-This repository contains the code and annotations for our SSRN paper on **"Stochastic modeling of pfm1 landmine encounters: comparative assessment of hypergeometric risk models and SAM/ACE detectors in UAV imagery"** by [Sumanta Kumar Das](Google Account https://myaccount.google.com/u/8/?utm_source=sign_in_no_continuehttps)
+This repository contains the code and annotations for our SSRN paper on **"Stochastic modeling of pfm1 landmine encounters: comparative assessment of hypergeometric risk models and SAM/ACE detectors in UAV imagery"** by [Sumanta Kumar Das](https://orcid.org/0000-0003-1501-7000)
 ## Dataset Description
 
 This dataset [1](#ref1) contains Visible and Near-Infrared (VNIR) Hyperspectral Imaging (HSI) data prepared for the IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026.
