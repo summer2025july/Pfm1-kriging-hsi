@@ -1,7 +1,7 @@
 # <p align="center">Probabilistic Encounter Modeling for PFM‑1 Landmine Detection: A Comparative Benchmark of Hypergeometric Risk Models, SAM/ACE Detectors, and Kriging‑Enhanced Soft Classification</p>
 
 <p align="center">
-  <a href="[https://ssrn.com/abstract=6505946]"><img src="https://img.shields.io/badge/Paper-IGARSS%202026-blue" alt="Paper"></a>
+  <a href="https://ssrn.com/abstract=6505946"><img src="https://img.shields.io/badge/Paper-SSRN%202026-blue" alt="Paper"></a>
   <a href="https://huggingface.co/datasets/SagarLekhak/pfm1-landmine-uav-vnir-hsi-IGARSS-2026"><img src="https://img.shields.io/badge/Dataset-UAV%20Hyperspectral-green" alt="Dataset"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
