@@ -131,6 +131,9 @@ If you use this dataset, please cite the specific IGARSS 2026 work [1](#ref1) an
       primaryClass={eess.IV},
       url={https://arxiv.org/abs/2510.02700}, 
 }
+```
+
+
 <a name="ref3"></a>
 **[3] Original Benchmark Dataset:**
 ```bibtex
@@ -141,6 +144,9 @@ If you use this dataset, please cite the specific IGARSS 2026 work [1](#ref1) an
   howpublished = {\url{https://github.com/summer2025july/Pfm1-kriging-hsi/blob/main/README.md}},
   note         = {Accessed: 2026-06-02}
 }
+```
+
+
 <a name="ref4"></a>
 **[4] Original Benchmark Dataset:**
 ```bibtex
