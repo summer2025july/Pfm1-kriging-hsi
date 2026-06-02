@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```python
 from huggingface_hub import snapshot_download
 
-snapshot_download(repo_id="SagarLekhak/pfm1-landmine-uav-vnir-hsi-IGARSS-2026", repo_type="dataset", local_dir="./data")
+snapshot_download(repo_id="sumantadasdotdelhi/pfm1-kriging-hsi", repo_type="dataset", local_dir="./data")
 ```
  
 ### Run Classical Detection Methods
