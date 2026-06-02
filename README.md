@@ -29,8 +29,8 @@ For more details regarding data acquisition and preprocessing, go to the origina
 
 ```bash
 # Clone the repository
-git clone https://github.com/PrasannaPulakurthi/pfm1-hsi-benchmark.git
-cd pfm1-hsi-benchmark
+git clone https://github.com/summer2025july/Pfm1-kriging-hsi.git
+cd Pfm1-kriging-hsi
 
 # Create a virtual environment
 python -m venv .venv
