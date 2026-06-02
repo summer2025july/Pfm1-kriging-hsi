@@ -135,7 +135,7 @@ If you use this dataset, please cite the specific IGARSS 2026 work [1](#ref1) an
 
 
 <a name="ref3"></a>
-**[3] Original Benchmark Dataset:**
+**[3] Original Kriging Based Classification Github Repositories:**
 ```bibtex
 @misc{pfm1kriginghsi2023,
   author       = {summer2025july},
@@ -148,7 +148,7 @@ If you use this dataset, please cite the specific IGARSS 2026 work [1](#ref1) an
 
 
 <a name="ref4"></a>
-**[4] Original Benchmark Dataset:**
+**[4] Original Colab Program:**
 ```bibtex
 @misc{ColabPFM1KrigingHSI2026,
   author       = {Anonymous},
