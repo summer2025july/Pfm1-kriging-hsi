@@ -131,6 +131,26 @@ If you use this dataset, please cite the specific IGARSS 2026 work [1](#ref1) an
       primaryClass={eess.IV},
       url={https://arxiv.org/abs/2510.02700}, 
 }
+<a name="ref3"></a>
+**[3] Original Benchmark Dataset:**
+```bibtex
+@misc{pfm1kriginghsi2023,
+  author       = {summer2025july},
+  title        = {Pfm1-kriging-hsi},
+  year         = {2023},
+  howpublished = {\url{https://github.com/summer2025july/Pfm1-kriging-hsi/blob/main/README.md}},
+  note         = {Accessed: 2026-06-02}
+}
+<a name="ref4"></a>
+**[4] Original Benchmark Dataset:**
+```bibtex
+@misc{ColabPFM1KrigingHSI2026,
+  author       = {Anonymous},
+  title        = {PFM1 Kriging HSI Google Colab Notebook},
+  year         = {2026},
+  howpublished = {\url{https://colab.research.google.com/drive/1IkUd0gmh-NdhUTpKdg-a34BBFMzFisQv#scrollTo=uG5TTtWZSA8m}},
+  note         = {Accessed: 2026-06-02}
+}
 ```
 ## License
 
